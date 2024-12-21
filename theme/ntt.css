@@ -66,6 +66,10 @@ section.slide h1 {
   left: 40px;
 }
 
+.compact {
+  line-height: 130%;
+}
+
 section.slide img[src*="#center"] {
   display: block;
   margin: auto;
