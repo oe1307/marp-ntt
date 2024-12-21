@@ -66,6 +66,22 @@ section.slide h1 {
   left: 40px;
 }
 
+section.slide img[src*="#center"] {
+  display: block;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  gap: 1em;
+}
+.sa {
+  justify-content: space-around;
+}
+.fw div {
+  flex: var(--fw);
+}
+
 section.slide footer {
   font-family: "Segoe UI";
   color: #000;
