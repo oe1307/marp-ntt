@@ -1,4 +1,4 @@
-# Template for NTT Slide
+# Marp Template for NTT
 
 <div align="center">
 <img src="logo.svg" width="200">
