@@ -52,6 +52,10 @@ section.slide {
   padding-top: 98px;
 }
 
+section.slide strong {
+  font-size: 24pt;
+}
+
 section.slide h1 {
   font-family: "Meiryo";
   color: #006cb9;
