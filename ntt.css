@@ -50,6 +50,7 @@ section.slide {
   padding-left: 42px;
   padding-right: 42px;
   padding-top: 98px;
+  line-height: 200%;
 }
 
 section.slide strong {
